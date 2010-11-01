@@ -1,0 +1,16 @@
+Changes
+lib/IPC/Mutex.pm
+lib/IPC/Mutex/Flock.pm
+lib/IPC/Mutex/ShareLite.pm
+Makefile.PL
+MANIFEST
+README
+t/10-IPC-Mutex.t
+t/11-IPC-Mutex-Flock.t
+t/12-IPC-Mutex-ShareLite.t
+t/20-critical_section.t
+t/30-proctime.pl
+t/30-proctime.t
+t/lib/Parallel/ForkManager.pm
+t/lib/UNIVERSAL/require.pm
+t/zz-cleanup.t
